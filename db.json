@@ -1,0 +1,40 @@
+{
+  "products": [
+      {
+          "id": "1",
+          "name": "Máscara infantil",
+          "model": "Meninas superpoderosas",
+          "image": "https://instagram.fpoa5-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/189350327_1005881869943953_3653891218483581950_n.jpg?_nc_ht=instagram.fpoa5-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=LG4B5-G0i_gAX9PTyZw&tn=mhzKU8iHd9qztBWD&edm=ABfd0MgBAAAA&ccb=7-4&oh=eb9a611563c411a4aa34690a46e8e209&oe=61038FA2&_nc_sid=7bff83",
+          "price": "R$ 15,00"
+      },
+      {
+          "id": "2",
+          "name": "iPhone",
+          "model": "6S 32GB Cinza especial",
+          "image": "https://images-americanas.b2w.io/produtos/105483001/imagens/usado-iphone-6s-32gb-cinza-espacial-delu/105483001_2_large.jpg",
+          "price": "R$ 969,00"
+      },
+      {
+          "id": "3",
+          "name": "iPhone",
+          "model": "11 Pro Max 512GB Prateado",
+          "image": "https://30232.cdn.simplo7.net/static/30232/sku/iphone-11-iphone-11-pro-max-iphone-11-pro-max-prata-com-tela-de-6-5-4g-51-gb-e-camera-de-12-mp-mwhf2bz-a--p-1611623304715.jpg",
+          "price": "R$ 7999,00"
+      },
+      {
+          "id": "4",
+          "name": "Samsung Galaxy",
+          "model": "Fold 512GB Preto",
+          "image": "https://http2.mlstatic.com/D_NQ_NP_647752-MLA42095075690_062020-O.jpg",
+          "price": "R$ 9169,00"
+      },
+    {
+          "id": "5",
+          "name": "Samsung Galaxy",
+          "model": "Fold 512GB Preto",
+          "image": "https://http2.mlstatic.com/D_NQ_NP_647752-MLA42095075690_062020-O.jpg",
+          "price": "R$ 9169,00"
+      }
+          
+  ]
+}
